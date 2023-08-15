@@ -8,7 +8,7 @@ This is a solution to the QR code component challenge on Frontend Mentor
 
 ### Links
 
-- Live Site URL: (https://astonishing-travesseiro-7525a0.netlify.app/)
+- Live Site URL: (https://rococo-pavlova-018d07.netlify.app/)
 
 ### Built with
 
